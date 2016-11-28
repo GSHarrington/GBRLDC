@@ -1,4 +1,4 @@
 # GBRLDC
-GBRLDC (Website)
+GBRLDC
 
 Uses Materialize design layout & Google forms to recieve messages.
